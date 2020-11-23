@@ -7,4 +7,10 @@
 ## 2회차
 
 - 실전 Modern PHP 예시
-  - [php-study]()
+  - Visual Studio Code 설치
+    - Extensions 설치
+  - PHP xdebug 세팅
+  - Visual Studio Code 로 디버깅
+  - 실전
+    - 맨바닥에 MVC 만들어보기
+    - [php-study](https://github.com/messe-esang/modern-php-study)
