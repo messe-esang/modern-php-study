@@ -12,7 +12,7 @@ class StudyController
     public function detail(int $id = null)
     {
         if (!$id) {
-            http_response_code(400);
+            http_response_code(404);
             die;
         }
 
