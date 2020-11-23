@@ -1,0 +1,15 @@
+{
+    "name": "hmsun/php-study",
+    "description": "PHP Study",
+    "type": "project",
+    "authors": [{
+        "name": "Hyeonmin Seon",
+        "email": "hmsun.es@esgroup.net"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "" : ["controllers/", "models/", "services/"]
+        }
+    }
+}
