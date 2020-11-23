@@ -6,7 +6,9 @@
         "name": "Hyeonmin Seon",
         "email": "hmsun.es@esgroup.net"
     }],
-    "require": {},
+    "require": {
+        "symfony/string": "^5.1"
+    },
     "autoload": {
         "psr-4": {
             "" : ["controllers/", "models/", "services/"]

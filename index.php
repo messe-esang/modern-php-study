@@ -2,12 +2,14 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+use function Symfony\Component\String\s;
+
 $uri = $_SERVER['REQUEST_URI'];
 
 $splits = explode('/', $uri);
 
-$controllerName = ucfirst($splits[1]) . 'Controller';
-$actionName = $splits[2];
+$controllerName = s($splits[1] . 'Controller')->camel()->title()->toString();
+$actionName = s($splits[2])->camel()->toString();
 
 unset($splits[0]);
 unset($splits[1]);
