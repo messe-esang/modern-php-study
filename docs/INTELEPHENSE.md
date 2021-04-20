@@ -12,10 +12,10 @@
 ## 라이센스 등록
 
 1. `F1 -> licence` 로 검색하여 `intelephense: Enter licence key` 메뉴를 선택합니다
-    ![등록#1](https://gist.githubusercontent.com/hmsun-es/362c3a115c260620724c354012a04872/raw/5ccba5005bcbbe5a8bb5d0ed92620e2f53ce08dc/screenshot-191.png)
+    ![등록#1](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-191.png)
 
 2. 라이센스키를 입력합니다
-    ![등록#2](https://gist.githubusercontent.com/hmsun-es/362c3a115c260620724c354012a04872/raw/42f9a2818e86d278ea3e3b3fcade20c86982fe44/screenshot-192.png)
+    ![등록#2](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-192.png)
 
 ## 사용법
 
