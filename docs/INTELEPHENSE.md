@@ -12,13 +12,13 @@
 ## 라이센스 등록 및 세팅
 
 1. `F1 -> licence` 로 검색하여 `intelephense: Enter licence key` 메뉴를 선택합니다
-    ![등록#1](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-191.png)
+  ![등록#1](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-191.png)
 
 2. 라이센스키를 입력합니다
-    ![등록#2](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-192.png)
+  ![등록#2](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-192.png)
 
 3. vscode extensions 탭(단축키 `ctrl + shift + x`)에서 `@builtin php` 로 검색하여 built-in 된 php 확장을 끕니다
-
+  ![등록#3](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-1619093922.png)
 
 ## 사용법
 
