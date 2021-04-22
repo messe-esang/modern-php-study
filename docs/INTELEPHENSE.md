@@ -17,6 +17,9 @@
 2. 라이센스키를 입력합니다
     ![등록#2](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-192.png)
 
+3. vscode extensions 탭(단축키 `ctrl + shift + x`)에서 `@builtin php` 로 검색하여 built-in 된 php 확장을 끕니다
+
+
 ## 사용법
 
 ### 무료 기능
