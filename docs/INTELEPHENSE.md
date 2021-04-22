@@ -9,7 +9,7 @@
     - [무료 기능](#무료-기능)
     - [유료 기능](#유료-기능)
 
-## 라이센스 등록
+## 라이센스 등록 및 세팅
 
 1. `F1 -> licence` 로 검색하여 `intelephense: Enter licence key` 메뉴를 선택합니다
     ![등록#1](https://github.com/messe-esang/modern-php-study/blob/master/docs/screenshot-191.png)
